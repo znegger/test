@@ -29,5 +29,5 @@ class User extends Authenticatable
     /** TEST1 **/
     /** TEST2 **/
     /** TEST3 **/
-    /** TEST4 **/
+    /** TAST4 **/
 }
